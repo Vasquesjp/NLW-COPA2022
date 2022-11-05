@@ -179,6 +179,10 @@ header {
     }
 }
 
+p{
+    margin-top: 23px;
+}
+
 footer {
     position:fixed;
     width: 100%;
