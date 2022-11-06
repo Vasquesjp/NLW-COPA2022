@@ -54,6 +54,7 @@ body * {
     width: fit-content;
     margin: auto;
     padding-top: 52px;
+    padding-bottom: 60px;
 }
 
 header {
@@ -176,11 +177,7 @@ header {
         max-width: 700px;
         flex-direction: row;
         flex-wrap: wrap;
-    }
-}
-
-p{
-    margin-top: 23px;
+    }    
 }
 
 footer {

@@ -28,7 +28,7 @@ document.querySelector("#cards").innerHTML =
     createCard("28/11", "segunda",
     createGame('brazil', 'Brasil', '13:00', 'switzerland', 'Suiça')) +
     createCard("02/12", "sexta",
-    createGame('brazil', 'Brasil', '16:00', 'cameroon', 'Camarões')) + `<p></p>`;
+    createGame('brazil', 'Brasil', '16:00', 'cameroon', 'Camarões'));
 
 let layoutColor = document.querySelector("#body");
 let class_obj = document.querySelector("#body").getAttribute("class");
